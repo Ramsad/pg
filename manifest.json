@@ -1,7 +1,7 @@
 {
   "name": "Odoo Website",
   "short_name": "Odoo",
-  "start_url": "/",
+  "start_url": "/fuel_manager_app",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#875A7B", // Odoo's default theme color
